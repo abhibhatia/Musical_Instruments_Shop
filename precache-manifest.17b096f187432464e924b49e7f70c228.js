@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "effdca8ba977d4e9900c6ef1da971b3b",
+    "revision": "bcb38e4f662193b67eb2ae38b0d3f06f",
     "url": "/Musical_Instruments_Shop/index.html"
   },
   {
-    "revision": "9dcb2411b064496eac79",
-    "url": "/Musical_Instruments_Shop/static/css/main.9c8f4288.chunk.css"
+    "revision": "89455b65b114e38fdb70",
+    "url": "/Musical_Instruments_Shop/static/css/main.3e7cbf4a.chunk.css"
   },
   {
     "revision": "f916454c254e6ae9ac37",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Musical_Instruments_Shop/static/js/2.69934736.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9dcb2411b064496eac79",
+    "revision": "89455b65b114e38fdb70",
     "url": "/Musical_Instruments_Shop/static/js/main.f71db8b3.chunk.js"
   },
   {
