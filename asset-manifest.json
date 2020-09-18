@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Musical_Instruments_Shop/static/css/main.9c8f4288.chunk.css",
+    "main.js": "/Musical_Instruments_Shop/static/js/main.f71db8b3.chunk.js",
+    "main.js.map": "/Musical_Instruments_Shop/static/js/main.f71db8b3.chunk.js.map",
+    "runtime-main.js": "/Musical_Instruments_Shop/static/js/runtime-main.bec8847f.js",
+    "runtime-main.js.map": "/Musical_Instruments_Shop/static/js/runtime-main.bec8847f.js.map",
+    "static/js/2.69934736.chunk.js": "/Musical_Instruments_Shop/static/js/2.69934736.chunk.js",
+    "static/js/2.69934736.chunk.js.map": "/Musical_Instruments_Shop/static/js/2.69934736.chunk.js.map",
+    "index.html": "/Musical_Instruments_Shop/index.html",
+    "precache-manifest.220f3f783e86e43a6e8e1854bf019096.js": "/Musical_Instruments_Shop/precache-manifest.220f3f783e86e43a6e8e1854bf019096.js",
+    "service-worker.js": "/Musical_Instruments_Shop/service-worker.js",
+    "static/css/main.9c8f4288.chunk.css.map": "/Musical_Instruments_Shop/static/css/main.9c8f4288.chunk.css.map",
+    "static/js/2.69934736.chunk.js.LICENSE.txt": "/Musical_Instruments_Shop/static/js/2.69934736.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bec8847f.js",
+    "static/js/2.69934736.chunk.js",
+    "static/css/main.9c8f4288.chunk.css",
+    "static/js/main.f71db8b3.chunk.js"
+  ]
+}
